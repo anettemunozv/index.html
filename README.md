@@ -4,9 +4,9 @@
   <head>
     <title>My Personal Introduction</title>
     <style>
-      body{background-color:7d5986}
-      h1{color:5eb4b9}
-      P{color:1e0b25}
+      body{background-color:7d5986;}
+      h1{color:5eb4b9;}
+      P{color:1e0b25;}
     </style>
   </head>
   <body>
